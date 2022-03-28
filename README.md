@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 Welcome to my GitHub Lair
 
 - 🔭 I’m currently working on my Front End Portfolio
 - 🌱 I’m currently learning HTML5, CSS3, and Javascript
